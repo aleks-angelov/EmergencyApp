@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_6fcec81f38315de058ceba5db482607c3825d857\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_f0e8cc79680f4672b07bcddd0c0b2eff6af80dd0\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_e5259b6c611d3ec13f7ee54899233c38782eef55\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_f9e811c51cd797be3a2da96e8e19d54f9829291c\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de15fc6bbdee92bc264409d928978403708c0683">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_21ec3a03e25a7abd0254401804f8b4d3ae4506e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_06066d43aa2395cac0487a75105de8403d0af0b5\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_36598dc2e02179614b4edc2f1adac6e4b1778b2b\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_3e3f8c56aacad2a5da11cccc03edbdb5652263c2\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_621154aa797dc8fa5b0051bb029a7c5899145719\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_384bacf8a1f0da6847af7abc87053d54e06c3b44\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_75212a98fe1befb720b0423725a9f946dffc2b7c\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_7ddaa9df4e81af96774669b5a8cb65b7d80bc24f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Aleks\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_4b1426bf044c3af582182cce7540dbcef36d37a4\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_220b7ee8b7f954313389ebe08d95b80bcc420c04\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_a981d74c9799cc84a8ff173e74cce330d95ab83d\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_bcfb3f6ef152a33327b4343aceb23b9b35039397\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_8ee5571e33c7604af856bf396d6e5e89b1c9f457\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_9c9e3420db8587479837d472ac407322a4d1574f\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_6c230f1e9f841b104406c86842b8bcc2c3f18cb8\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_20edf70c97bc67d51428407608cff44b7788249d\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_9836e6184196a9dfa8282ffa3b7b407e68a6f392\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_7375dce678b75774ad0be3310a1e23401c0466be\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_1ec0f6807f3cd75256df7fe536811e1fe064bee6\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fbf69a789b6e433cde246cba2d179fb6fae3f3be">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a28e9ca15f3c94662f41db1b653486b65a5ef15\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_129a22d9ad86bb47965e5054fcb029dd53196ff7\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_33328f3ee097a5a1849e0e3d14e36e99fb7e1895\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_f8dde4f63b41e718622e3aae03f26d264d02521d\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_d87a719c6593dce21f9d2cd1c053bbd7f89ae4c8\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_05d605d42227ba813cc61ed14b493e9aa656973e\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_3c3c2a1ff38253206372649a4838778624401b80\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_3ac90ae190fe173a3afc2951bc5978704ca09ce8\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_76003fe42e0fd20f9e19d0c941df5b804fc77635\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_6584381ebebb0b47ad4afef927436d5a5b3cbcaf\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_8106debb3064fa4fef0c60e4273615e0e0db5248\classes.dex" />
+    </item>
+    <item
+        jar="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\OneDrive\ComputerScience\AndroidStudio\EmergencyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ba367c6abf42603b3aae435455f1b5613da4f94f\classes.dex" />
+    </item>
+
+</items>

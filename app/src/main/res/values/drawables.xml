@@ -1,0 +1,3 @@
+<resources>
+    <item name="ic_menu_map" type="drawable">@android:drawable/ic_dialog_map</item>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="@string/str_menu_map" />
+    </group>
+
+    <item android:title="@string/str_menu_separator">
+        <menu>
+            <item
+                android:id="@+id/nav_emotional"
+                android:icon="@drawable/ic_menu_emotional"
+                android:title="@string/str_menu_emotional" />
+            <item
+                android:id="@+id/nav_medical"
+                android:icon="@drawable/ic_menu_medical"
+                android:title="@string/str_menu_medical" />
+            <item
+                android:id="@+id/nav_threat"
+                android:icon="@drawable/ic_menu_threat"
+                android:title="@string/str_menu_threat" />
+            <item
+                android:id="@+id/nav_weapon"
+                android:icon="@drawable/ic_menu_weapon"
+                android:title="@string/str_menu_weapon" />
+        </menu>
+    </item>
+
+</menu>

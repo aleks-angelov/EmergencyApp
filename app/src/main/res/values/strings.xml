@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AUBG Emergency App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="str_app_icon">Default App Icon</string>
+
+    <string name="str_emergencyText">Press and hold in case of emergency!</string>
+    <string name="str_emergencyButton">Emergency Button</string>
+
+    <string name="str_menu_course">INF 397 - Mobile Computing</string>
+    <string name="str_menu_authors">Aleks Angelov and Ivan Dzhambov</string>
+    <string name="str_menu_map">Campus Emergency Map</string>
+    <string name="str_menu_separator">I Can See…</string>
+    <string name="str_menu_emotional">Emotional Crisis</string>
+    <string name="str_menu_medical">Medical Distress</string>
+    <string name="str_menu_threat">Threat of Violence</string>
+    <string name="str_menu_weapon">Weapon on Campus</string>
+
+    <string name="title_activity_emergency_map_screen">Campus Emergency Map</string>
+
+    <string name="str_details_photo">Contact Photo</string>
+    <string name="str_details_name">Contact Name:\n</string>
+    <string name="str_details_assistance">Provided Assistance:\n</string>
+    <string name="str_details_location">Office Location:\n</string>
+    <string name="str_details_hours">Working Hours:\n</string>
+    <string name="str_details_number">Call by Phone</string>
+
+</resources>
